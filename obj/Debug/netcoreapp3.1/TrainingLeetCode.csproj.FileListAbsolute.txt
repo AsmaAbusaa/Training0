@@ -1,0 +1,14 @@
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.exe
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.deps.json
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.runtimeconfig.json
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.runtimeconfig.dev.json
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.dll
+C:\Users\Asma\Desktop\TrainingLeet0\bin\Debug\netcoreapp3.1\TrainingLeetCode.pdb
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.csproj.AssemblyReference.cache
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.AssemblyInfoInputs.cache
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.AssemblyInfo.cs
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.dll
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.pdb
+C:\Users\Asma\Desktop\TrainingLeet0\obj\Debug\netcoreapp3.1\TrainingLeetCode.genruntimeconfig.cache
